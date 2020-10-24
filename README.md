@@ -1,2 +1,2 @@
 # RockPaperScissors
-Play the famous game with Randomness
+Play the famous game with Randomness: Rock - Paper - Scissors
